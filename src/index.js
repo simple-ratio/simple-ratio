@@ -17,7 +17,7 @@ function fractionReduction(arr) {
 }
 
 // 最简整数比形式
-export function simplestRatio(arr, symbol) {
+export function simplestRatio(arr, symbol = ':') {
   return fractionReduction(arr).join(symbol)
 }
 
