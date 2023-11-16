@@ -1,7 +1,7 @@
 {
   "name": "simple-ratio",
   "version": "0.0.1",
-  "description": "求解多个整数的简约比值的易用函数",
+  "description": "用于求解多个整数简约比值的工具函数",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
