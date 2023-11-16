@@ -29,7 +29,7 @@ let ratio = simpleRetio([2, 4])
 console.log(ratio) // 1:2
 ```
 
-更多使用参考：[使用文档](./doc/use/README.md)
+更多使用参考：[使用文档](https://simple-ratio.github.io/doc/use/)
 
 ## 在线案例
 
