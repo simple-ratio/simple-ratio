@@ -33,7 +33,7 @@ console.log(ratio) // 1:2
 
 ## 在线案例
 
-<a href="./example/test.html" target=“_blank>动手测一测</a>
+<a href="https://simple-ratio.github.io/example/test.html" target=“_blank>动手测一测</a>
 
 ## 交流 & 提问
 
